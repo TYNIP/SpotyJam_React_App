@@ -2,7 +2,7 @@
 
 SpotyJam is a React app that uses the Spotify API to give users the ability to manage their playlists with ease. With SpotyJam, you can search for tracks, create new playlists, add or remove songs, and update your existing playlists, in a faster and easy way.
 
-Website: (SpotyJam)[https://spotyjam.netlify.app/] 
+Website: [SpotyJam](https://spotyjam.netlify.app/) 
 
 ## Features
 
