@@ -63,7 +63,6 @@ That's it! SpotyJam empowers you to organize and enjoy your music on Spotify wit
 
 ## Considerations
 - Tests are not currently supported.
-- Project under development.
 - Project with academic and practical purposes.
 - Project does not store any kind of data.
 
